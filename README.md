@@ -6,7 +6,7 @@ High Level Requirment :
 2. Comments Management
 3. Authentication and Authorization
 4. Category Management
-
+----------------------------------------------------------------
 
 1. Post Management
    - Create post
@@ -17,17 +17,17 @@ High Level Requirment :
    - delete post
 
   2. Comments Management (one to many mapping)
-    - Create comment
-    - get single comment
-    - get all comments
-    - update comment
-    - Delete comment
+     - Create comment
+     - get single comment
+     - get all comments
+     - update comment
+     - Delete comment
 
-  3. Authentication and authorisation
-    - login/logout
-    - Role based security (Admin/User)
+  4. Authentication and authorisation
+     - login/logout
+     -  Role based security (Admin/User)
 
-  4. Category management
+  5. Category management
      - Create category
      - get single category
      - get all categories
