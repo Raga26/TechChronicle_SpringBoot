@@ -26,6 +26,8 @@ High Level Requirment :
   4. Authentication and authorisation
      - login/logout
      -  Role based security (Admin/User)
+     -  ![image](https://github.com/Raga26/BlogApp_SpringBoot/assets/134762689/b934bc6f-caa2-497a-a59e-8e3f40cf1d33)
+
 
   5. Category management
      - Create category
