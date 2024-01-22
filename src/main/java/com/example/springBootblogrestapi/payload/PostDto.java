@@ -25,7 +25,10 @@ public class PostDto {
     private String content;
     private Set<CommentDto> comments;
 
-//    public void getComments() {
+
+    private Long categoryId;
+
+//        public void getComments() {
 //        this.comments = comments;
 //    }
 }
