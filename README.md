@@ -25,6 +25,8 @@ Database: MySQL
 Swagger - API documentation
 Postman - Test REST API
 Maven - Build Tool
+- Contaninerization:
+  Docker.
        
        
    
