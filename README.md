@@ -1,43 +1,30 @@
-# BlogApp_SpringBoot
+# TechChronicle_SpringBoot
 
-High Level Requirment :
+The SpringBoot Blog App, a feature-rich web application built using Java and the Spring Boot framework.
+This project encompasses post management, comments, user authentication and authorization, and category management.
 
-1. Post Management
-2. Comments Management
-3. Authentication and Authorization
-4. Category Management
-----------------------------------------------------------------
+Key Features
+Post Management: Create, read, update, and delete blog posts with ease.
+Comments Management: Engage with your audience through comments on each post.
+Authentication and Authorization: Secure your app with user authentication and authorization using Spring Security and JWT.
+Category Management: Organize your blog posts with categorized content.
 
-1. Post Management
-   - Create post
-   - get single post
-   - get all posts
-   - get all posts with pagination and Sorting
-   - update post
-   - delete post
-
-  2. Comments Management (one to many mapping)
-     - Create comment
-     - get single comment
-     - get all comments
-     - update comment
-     - Delete comment
-
-  4. Authentication and authorisation
-     - login/logout
-     -  Role based security (Admin/User)
-     -  ![image](https://github.com/Raga26/BlogApp_SpringBoot/assets/134762689/b934bc6f-caa2-497a-a59e-8e3f40cf1d33)
-
-
-  5. Category management
-     - Create category
-     - get single category
-     - get all categories
-     - update category
-     - delete category
-     - get posts by category
-
-Deployment on AWS.
+- Technologies Used
+Java
+Spring Boot
+Spring MVC
+Spring Data JPA (Hibernate)
+Spring Security
+JWT (JSON Web Tokens)
+Tomcat
+MySQL database
+- Development Environment
+IDE: Intellij IDEA
+Database: MySQL
+- Tools:
+Swagger - API documentation
+Postman - Test REST API
+Maven - Build Tool
        
        
    
