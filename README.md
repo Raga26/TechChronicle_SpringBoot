@@ -1,4 +1,4 @@
-# BlogApp_SpringBoot
+# TechChronicle_SpringBoot
 
 High Level Requirment :
 
